@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetAdmin.Api", "VetAdmin.Api\VetAdmin.Api.csproj", "{0D127BB1-5FB1-403D-9F2A-E8F5E1DF798F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetAdmin.Application", "VetAdmin.Application\VetAdmin.Application.csproj", "{85EF5DCC-6077-44C7-B4D2-ED75E7B625F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetAdmin.Contracts", "VetAdmin.Contracts\VetAdmin.Contracts.csproj", "{5EEE41F6-84AB-49D6-8023-267DF8A09AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetAdmin.Domain", "VetAdmin.Domain\VetAdmin.Domain.csproj", "{F4DC4C77-95C3-4BF5-8BB7-B8362B401762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetAdmin.Infrastructure", "VetAdmin.Infrastructure\VetAdmin.Infrastructure.csproj", "{8756E917-C583-4AB8-8546-D36F04C1176A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D127BB1-5FB1-403D-9F2A-E8F5E1DF798F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D127BB1-5FB1-403D-9F2A-E8F5E1DF798F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D127BB1-5FB1-403D-9F2A-E8F5E1DF798F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D127BB1-5FB1-403D-9F2A-E8F5E1DF798F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85EF5DCC-6077-44C7-B4D2-ED75E7B625F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85EF5DCC-6077-44C7-B4D2-ED75E7B625F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85EF5DCC-6077-44C7-B4D2-ED75E7B625F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85EF5DCC-6077-44C7-B4D2-ED75E7B625F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEE41F6-84AB-49D6-8023-267DF8A09AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEE41F6-84AB-49D6-8023-267DF8A09AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEE41F6-84AB-49D6-8023-267DF8A09AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEE41F6-84AB-49D6-8023-267DF8A09AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DC4C77-95C3-4BF5-8BB7-B8362B401762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DC4C77-95C3-4BF5-8BB7-B8362B401762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DC4C77-95C3-4BF5-8BB7-B8362B401762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DC4C77-95C3-4BF5-8BB7-B8362B401762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8756E917-C583-4AB8-8546-D36F04C1176A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8756E917-C583-4AB8-8546-D36F04C1176A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8756E917-C583-4AB8-8546-D36F04C1176A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8756E917-C583-4AB8-8546-D36F04C1176A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

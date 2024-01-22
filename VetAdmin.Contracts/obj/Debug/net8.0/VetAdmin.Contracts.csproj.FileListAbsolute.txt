@@ -1,0 +1,11 @@
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\bin\Debug\net8.0\VetAdmin.Contracts.deps.json
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\bin\Debug\net8.0\VetAdmin.Contracts.dll
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\bin\Debug\net8.0\VetAdmin.Contracts.pdb
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\VetAdmin.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\VetAdmin.Contracts.AssemblyInfoInputs.cache
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\VetAdmin.Contracts.AssemblyInfo.cs
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\VetAdmin.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\VetAdmin.Contracts.dll
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\refint\VetAdmin.Contracts.dll
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\VetAdmin.Contracts.pdb
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Contracts\obj\Debug\net8.0\ref\VetAdmin.Contracts.dll

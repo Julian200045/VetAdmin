@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jvo3UVklOtG62vxylnVXkRjw+4Z5CEoXHXa+bWglC8c=",
+  "Source": "VetAdmin.Api",
+  "BasePath": "_content/VetAdmin.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

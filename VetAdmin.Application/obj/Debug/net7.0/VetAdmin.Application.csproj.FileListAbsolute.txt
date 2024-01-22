@@ -1,0 +1,12 @@
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\bin\Debug\net7.0\VetAdmin.Application.deps.json
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\bin\Debug\net7.0\VetAdmin.Application.dll
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\bin\Debug\net7.0\VetAdmin.Application.pdb
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.csproj.AssemblyReference.cache
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.AssemblyInfoInputs.cache
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.AssemblyInfo.cs
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.csproj.CoreCompileInputs.cache
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.dll
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\refint\VetAdmin.Application.dll
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\VetAdmin.Application.pdb
+C:\Users\Julián\Desktop\.Net Projects\VetAdmin\VetAdmin.Application\obj\Debug\net7.0\ref\VetAdmin.Application.dll
